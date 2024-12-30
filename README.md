@@ -1,1 +1,1 @@
-# precios_hotel
+# precios_hoteles
